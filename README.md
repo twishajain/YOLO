@@ -11,3 +11,8 @@ To run the yolo object detection download the repository and open it in terminal
 Paste the following command:
 
 $ python yolo.py --image images/baggage_claim.jpg --yolo yolo-coco
+
+
+References:
+
+https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
