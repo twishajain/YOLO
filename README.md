@@ -1,6 +1,6 @@
 # YOLO
 
-**Images**
+**Object Detection in Images**
 
 Download "yolov3.weights" from the below link and copy it to the "yolo-coco" folder of this project.
 
