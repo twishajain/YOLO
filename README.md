@@ -15,4 +15,4 @@ $ python yolo.py --image images/baggage_claim.jpg --yolo yolo-coco
 
 References:
 
-https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+(https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv) [Adrian Rosebrock @ Pyimagesearch]
